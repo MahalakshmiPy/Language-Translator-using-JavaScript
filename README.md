@@ -11,7 +11,7 @@ Supports a wide range of languages, enabling users to translate to and from diff
 Minimalistic and lightweight, ensuring fast loading times and smooth performance.
 How to Use
 Clone the repository to your local machine:
-git clone https://github.com/Venkateeshh/Js-Language-Translator.git
+git clone https://github.com/MahalakshmiPy/Language-Translator-using-JavaScript.git
 Open the index.html file in your web browser.
 
 Enter the text you want to translate in the input field.
